@@ -27,7 +27,7 @@ We build **local-first**, **privacy-respecting** software that just works. No cl
 
 ## Featured Project
 
-### SubTract — Subscription Tracker TUI
+### SubTract - Subscription Tracker TUI
 
 > A gorgeous, local-first terminal UI for tracking subscriptions, domain renewals, and API costs. No cloud. No accounts. Just a single binary and a SQLite file.
 
