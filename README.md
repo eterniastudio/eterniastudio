@@ -15,6 +15,7 @@
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev)
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://swift.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org)
+[![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)](https://electronjs.org)
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org)
 
 </div>
@@ -23,29 +24,32 @@
 
 ## About
 
-We build **local-first**, **privacy-respecting** software that just works. No cloud accounts, no telemetry, no subscriptions to use our tools. Beautiful interfaces, thoughtful design, and rock-solid engineering.
+I build tools I actually want to use: local-first, no accounts required, no data leaving your machine. Every project here is designed to feel good to use and built to last. No bloat, no subscriptions just to open the app, no telemetry running in the background.
 
-## Featured Project
+## Featured Projects
 
 ### SubTract - Subscription Tracker TUI
 
-> A gorgeous, local-first terminal UI for tracking subscriptions, domain renewals, and API costs. No cloud. No accounts. Just a single binary and a SQLite file.
+> A local-first terminal UI for tracking subscriptions, domain renewals, and API costs. Single binary, SQLite file, nothing else. Runs anywhere.
+
+### SimpleMux - Audio Metadata Editor
+
+> Audio tagging without the headache. SimpleMux handles MP3, FLAC, WAV, OGG, and AAC/M4A with batch editing, album art, and smart file renaming. All offline, all yours.
 
 ---
 
 <div align="center">
 
-### What We're Building
+### What I'm Building
 
 | Project | Stack | Status |
 |---------|-------|--------|
 | **SubTract** | Go + Bubble Tea + SQLite | 🟢 Open Source |
-| **LiftIQ** | Swift (iOS) | 🔨 In Development |
-| **TuneIQ** | TypeScript | 🔨 In Development |
+| **SimpleMux** | TypeScript + Electron + React | 🟢 Open Source |
 
 ---
 
-*We believe the best software is the software you own.*
+*The best software is the software you own.*
 
 **Local-first · Privacy-respecting · Beautifully crafted**
 
