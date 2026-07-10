@@ -36,6 +36,12 @@ I build tools I actually want to use: local-first, no accounts required, no data
 
 > Audio tagging without the headache. SimpleMux handles MP3, FLAC, WAV, OGG, and AAC/M4A with batch editing, album art, and smart file renaming. All offline, all yours.
 
+### Sonic - Beat Downloader for Producers
+
+> A local-first Windows app for downloading beat references, extracting BPM/key/tuning metadata, and exporting audio directly into a producer workflow.
+
+[View Sonic on GitHub](https://github.com/EterniaStudios/sonic)
+
 ---
 
 <div align="center">
@@ -46,6 +52,7 @@ I build tools I actually want to use: local-first, no accounts required, no data
 |---------|-------|--------|
 | **SubTract** | Go + Bubble Tea + SQLite | 🟢 Open Source |
 | **SimpleMux** | TypeScript + Electron + React | 🟢 Open Source |
+| **Sonic** | Rust + Tauri 2 + React + TypeScript | 🟢 Windows Release |
 
 ---
 
