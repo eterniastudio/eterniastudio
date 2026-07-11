@@ -40,7 +40,7 @@ I build tools I actually want to use: local-first, no accounts required, no data
 
 > A local-first Windows app for downloading beat references, extracting BPM/key/tuning metadata, and exporting audio directly into a producer workflow.
 
-[View Sonic on GitHub](https://github.com/EterniaStudios/sonic)
+[View Sonic on GitHub](https://github.com/eterniastudio/sonic)
 
 ---
 
