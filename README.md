@@ -24,7 +24,7 @@
 
 ## About
 
-I build tools I actually want to use: local-first, no accounts required, no data leaving your machine. Every project here is designed to feel good to use and built to last. No bloat, no subscriptions just to open the app, no telemetry running in the background.
+I build tools I actually want to use: local-first, no accounts required, and no analytics running in the background. Product state stays on your machine; when a tool needs network access for its core job, that boundary is explicit and user-controlled. Every project here is designed to feel good to use and built to last—without bloat or subscriptions just to open the app.
 
 ## Featured Projects
 
@@ -36,9 +36,9 @@ I build tools I actually want to use: local-first, no accounts required, no data
 
 > Audio tagging without the headache. SimpleMux handles MP3, FLAC, WAV, OGG, and AAC/M4A with batch editing, album art, and smart file renaming. All offline, all yours.
 
-### Sonic - Beat Downloader for Producers
+### Sonic - Producer Workstation
 
-> A local-first Windows app for downloading beat references, extracting BPM/key/tuning metadata, and exporting audio directly into a producer workflow.
+> A local-first Windows workstation for authorized media intake, declared BPM/key/tuning review, batch export, and searchable beat library organization.
 
 [View Sonic on GitHub](https://github.com/eterniastudio/sonic)
 
