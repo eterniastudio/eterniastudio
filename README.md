@@ -28,14 +28,6 @@ I build tools I actually want to use: local-first, no accounts required, and no 
 
 ## Featured Projects
 
-### SubTract - Subscription Tracker TUI
-
-> A local-first terminal UI for tracking subscriptions, domain renewals, and API costs. Single binary, SQLite file, nothing else. Runs anywhere.
-
-### SimpleMux - Audio Metadata Editor
-
-> Audio tagging without the headache. SimpleMux handles MP3, FLAC, WAV, OGG, and AAC/M4A with batch editing, album art, and smart file renaming. All offline, all yours.
-
 ### Sonic - Producer Workstation
 
 > A local-first Windows workstation for authorized media intake, declared BPM/key/tuning review, batch export, and searchable beat library organization.
